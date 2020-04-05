@@ -1,4 +1,4 @@
 # JAIGANSA PORTFOLIO
 
-# [ENTER](http://jaigansa.github.com)
+# [ENTER](http://jaigansa.github.io)
 
