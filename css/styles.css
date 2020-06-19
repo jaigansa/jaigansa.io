@@ -10356,3 +10356,14 @@ form .row:first-child .floating-label-form-group {
 .copyright {
     background-color: #1a252f;
 }
+
+
+/*!
+ * Adding Custome Code
+
+ */
+
+
+ .svg {
+   width: auto;
+ }
