@@ -1,5 +1,6 @@
 # JAIGANSA PORTFOLIO
 
-![Web-Preview](https://repository-images.githubusercontent.com/252964281/80c78280-774c-11ea-9b14-e43b7168f2e4 "Preview")
+![Web-Preview](https://repository-images.githubusercontent.com/252964281/3f6b5b80-b2d5-11ea-900e-c3e45a3ce391 "Preview")
 
 # [ENTER](http://jaigansa.github.io)
+
